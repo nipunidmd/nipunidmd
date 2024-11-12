@@ -51,10 +51,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=nipunidmd&theme=dark&background=000000" alt="GitHub Streak"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=nipunidmd&theme=light&background=000000" alt="GitHub Streak"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipunidmd&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipunidmd&layout=compact&theme=vision-friendly-light" alt="Top Langs"/>
   </a>
 </div>
 
